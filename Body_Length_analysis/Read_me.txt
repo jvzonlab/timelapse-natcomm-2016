@@ -9,6 +9,6 @@
 4) use *<plot_bodyLength.py> to visualize the results,
 creates figure 1 panel E and supplementary frigure 1 panel A in the main text
 
-3) run <annotate_POI.py> to get POIs 1, 2/v , 3 and d
+5) <seamCell_results_wormDiameter> creates supplementary figure 1 panel B
 
 Note: timeLapseFun.py is a general library that contains many useful functions.
